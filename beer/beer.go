@@ -2,6 +2,6 @@ package main
 
 import "fmt"
 
-func beer() {
+func main() {
 	fmt.Println("chelas for days")
 }
